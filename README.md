@@ -1,9 +1,9 @@
-# Super 
+# Super Shope
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This section has moved here: [https://abdurrazzak.me](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
