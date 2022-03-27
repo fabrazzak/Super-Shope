@@ -1,0 +1,16 @@
+.cart{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+}
+.cart-btn{
+    background:  rgba(91, 196, 238, 0.815);
+    padding: 10px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.cart-btn:hover {background: rgb(0, 183, 255);}
+.product-img{
+    width: 100px;
+    height: 100px;
+}

@@ -5,7 +5,7 @@ import Shope from './components/shope/Shope';
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <Header></Header>
       <Shope></Shope>
     </div>

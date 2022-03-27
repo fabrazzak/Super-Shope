@@ -1,6 +1,6 @@
 [
     {
-      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "id": "1",
       "name": "Refrigerator Glass 260 Liter Singer NutriLock-Red",
       "seller": "Abdur Razzak",
       "price": 3999000,
@@ -12,7 +12,7 @@
       "quantity": 0
     },
     {
-      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "id": "2",
       "name": "Refrigerator Glass 231 Liter Singer NutriLock-Black",
       "seller": "Abdur Razzak",
       "price":35000,
@@ -24,7 +24,7 @@
       "quantity": 0
     },
     {
-      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "id": "3",
       "name": "Refrigerator 138 Ltr Singer OrangeS",
       "seller": "Abdur Razzak",
       "price": 24590,
@@ -36,7 +36,7 @@
       "quantity": 0
     },
     {
-      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "id": "4",
       "name": "Refrigerator 243 Ltr Singer Black",
       "seller": "Abdur Razzak",
       "price": 36900,
@@ -48,7 +48,7 @@
       "quantity": 0
     },
     {
-      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "id": "5",
       "name": "BEKO Dish Washer-DFN26424X",
       "seller": "Abdur Razzak",
       "price": 39990,
@@ -60,7 +60,7 @@
       "quantity": 0
     },
     {
-      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "id": "6",
       "name": "Washing Machine Full Auto 7.5KG SINGER",
       "seller": "Abdur Razzak",
       "price": 138,
@@ -72,7 +72,7 @@
       "quantity": 0
     },
     {
-      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "id": "7",
       "name": "Washing Machine Singer 7 KG Top Loading",
       "seller": "Abdur Razzak",
       "price": 24190,
@@ -84,7 +84,7 @@
       "quantity": 0
     },
     {
-      "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "id": "8",
       "name": "Air Conditioner 1.5 Ton Singer Hot & Cool Green Inverter",
       "seller": "Abdur Razzak",
       "price": 69990,
@@ -96,7 +96,7 @@
       "quantity": 0
     }
 ,{
-    "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+    "id": "9",
     "name": "Walton WFD-1B6-GDEL-XX Frost Refrigerator - 132 Ltr",
     "seller": "Abdur Razzak",
     "price": 19900,
@@ -108,7 +108,7 @@
     "quantity": 0
   },
   {
-    "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+    "id": "10",
     "category": "Men's Sneaker",
     "name": "Walton Wfd-1B6-Gdel-Xx Frost Refrigerator - 132 Ltr",
     "seller": "Abdur Razzak",
@@ -121,7 +121,7 @@
     "quantity": 0
   },
   {
-    "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+    "id": "11",
     "name": "Walton WFA-2A3-GDEL-XX Frost Refrigerator - 213 Ltr OD",
     "seller": "Abdur Razzak",
     "price": 26300,
@@ -133,7 +133,7 @@
     "quantity": 0
   },
   {
-    "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+    "id": "12",
     "name": "Walton WFD-1F3-GDEL-XX Frost Refrigerator - 176 Ltr",
     "seller": "Abdur Razzak",
     "price": 23900,

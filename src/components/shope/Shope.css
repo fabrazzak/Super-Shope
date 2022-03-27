@@ -1,8 +1,8 @@
-.shopp{
+.shope{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 5fr 2fr;
     margin-top: 40px;
-    position: relative;
+    
    
 }
 .products{
@@ -12,6 +12,15 @@
     justify-items: center;
 
 }
-.summary{
-    
+.order-summerys{
+   position: relative;
+    border: solid 3px black;
+    padding-left: 30px;    
+}
+.order-summerys h3{
+    text-align: center;
+}
+.order-summery-wraper{
+    position: sticky;
+    top: 30px;
 }
