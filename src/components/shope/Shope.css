@@ -24,3 +24,23 @@
     position: sticky;
     top: 30px;
 }
+@media screen and (max-width: 768px){
+    .products{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap:45px;
+        justify-items: center;
+    
+    }
+    
+}
+@media screen and (max-width: 768px){
+    .shope{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        margin-top: 40px;
+        
+       
+    }
+    
+}
