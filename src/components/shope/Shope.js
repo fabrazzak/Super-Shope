@@ -61,7 +61,7 @@ const Shope = () => {
             </div>
             <div className='order-summerys'>
                 <div className='order-summery-wraper'>
-                <h3 > Max four product</h3>
+                <h3 > Your selecte product</h3>
                 {
                     cart.map(product=> <Cart cart={product} key={product.id}></Cart>)
                 }
