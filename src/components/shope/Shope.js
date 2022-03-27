@@ -3,6 +3,7 @@ import './Shope.css'
 
 import Products from '../Products/Products';
 import Cart from '../Cart/Cart';
+import SelectProduct from '../SelectProduct';
 
 const Shope = () => {
     const [products,setProducts]=useState([]);
@@ -37,12 +38,11 @@ const Shope = () => {
         for (const addedCart of addedCarts){
             if(parseFloat(addedCart.id)===parseFloat(randomNumber)){
                 setAddedCart(addedCart);
-                console.log("raddom ganarato" +addedCart.name);
-
             }
         }
     }
     const resetBtn =()=>{
+        setAddedCart([]);
         setCart([]);
     }
    
@@ -65,8 +65,11 @@ const Shope = () => {
                 {
                     cart.map(product=> <Cart cart={product} key={product.id}></Cart>)
                 }
-              <button className='cart-btn' onClick={()=>spineNow(cart)}>spine now</button>
+              <button className='cart-btn' onClick={()=>spineNow(cart)}>sprine now</button>
               <br /> <br />
+              {
+                    <SelectProduct addedCart={addedCart}></SelectProduct>
+              }
               <button className='cart-btn' onClick={resetBtn}>Re-select now</button>
 
                 </div>

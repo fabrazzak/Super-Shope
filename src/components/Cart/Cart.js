@@ -12,8 +12,8 @@ const Cart = (props) => {
     return (
         <div className='cart'>
                 <img className='product-img' src={img} alt="img" />
-                <p> Price: {name}</p>
-                <p> Price: {price}</p>            
+                <p> Name : {name}</p>
+                <p> Price : {price}</p>            
         </div>
     );
 };
